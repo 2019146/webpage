@@ -1,0 +1,18 @@
+.success, 
+.error {
+    position: relative;
+    margin-top: 25px;
+}
+.success input {
+    border-color: #09c372;
+}
+
+.error input {
+    border-color: #ff3860;
+}
+
+.error {
+    color: #ff3860;
+    font-size: 6px;
+    height: 13px;
+}
